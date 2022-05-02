@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"text/template"
 
-	"github.com/randall77/heapdump14/read"
+	"github.com/tqxia/heapdump/read"
 )
 
 const (
